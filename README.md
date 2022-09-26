@@ -1,1 +1,1 @@
-This is onlt .java file of the class of GenericPractice
+This is only .java file of the class of GenericPractice
